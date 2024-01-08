@@ -5,5 +5,5 @@
 }
 
 .jf-bar-nav-container-products a {
-  color: #000000;
+  color: var(--jf-font-color-secondary);
 }
