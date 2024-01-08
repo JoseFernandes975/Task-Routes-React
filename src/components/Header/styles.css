@@ -1,0 +1,16 @@
+header {
+    background-color: var(--jf-bg-color-primary);
+    height: 70px;
+    display: flex;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    color: var(--jf-font-color-primary);
+}
+

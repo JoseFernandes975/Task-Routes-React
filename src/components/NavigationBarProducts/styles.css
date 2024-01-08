@@ -1,0 +1,9 @@
+.jf-bar-nav-container-products {
+    background-color: var( --jf-bg-color-tertiary);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.jf-bar-nav-container-products a {
+  color: #000000;
+}
